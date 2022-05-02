@@ -132,7 +132,7 @@ stack.pop(); // undefined
 Например:
 
 ```js
-const queue = new Queue();
+
 
 queue.enqueue(1); // добавляет элемент в очередь
 queue.enqueue(3); // добавляет элемент в очередь
